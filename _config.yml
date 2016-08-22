@@ -1,19 +1,4 @@
-name: MichaelSwamerPhoto
-favicon: null
-layout_spectrum: 0.8088327117729932
 typography_spectrum: 0.12103059841319919
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,19 @@ color:
   lightness: 0.5794217092916369
   saturation: 0.7494988325051963
   rhythmicContrast: 0.5805779206566513
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8088327117729932
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: MichaelSwamerPhoto
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
