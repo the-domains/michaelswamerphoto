@@ -31,9 +31,6 @@ navigation:
   - name: Formative Years
     id: fa5e6f31-983d-43c7-b5a1-e60d06549256
     type: content
-  - name: '1.'
-    id: 44309d06-8484-40bb-b689-01ed83098c01
-    type: content
 favicon: null
 title: Contact Sheet
 purpose: []
